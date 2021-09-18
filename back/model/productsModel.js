@@ -1,5 +1,4 @@
 const sequelize = require('../db/conexion');
-const Sequelize = require('../db/conexion');
 
 module.exports = class productsModel {
     constructor(product){
